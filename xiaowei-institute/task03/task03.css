@@ -1,10 +1,10 @@
 body {
-	background-color:		white;
+	background-color:			white;
 	padding:				20px;
 }
 
 .all {
-	background-color:		#eee;
+	background-color:			#eee;
 	padding:				20px;
 	border:					thin solid #999;
 	clear:					right;
@@ -12,7 +12,7 @@ body {
 
 #logo {
 	float:					left;
-	background-color:		white;
+	background-color:			white;
 	width:					200px;
 	border:					thin solid #999;
 	padding:				20px;
@@ -26,39 +26,24 @@ img {
 }
 
 #logo span {
-	/*display:				inline;*/
-	/*vertical-align:			top;*/
-	/*text-align:				right;*/
-	/*width:					10px;*/
-/*	
-	border:					thin solid white;
-	margin-left:			140px;*/
-	/*position:				absolute;*/
-
-	/*margin-bottom:			100px;
-*/
-margin-left:			140px;
+	vertical-align:				top;
 }
 
 #content {
-	background-color:		white;
+	background-color:			white;
 	border:					thin solid #999;
 	padding:				20px;
-	margin-left:			260px;
-	margin-right:			180px;
+	margin-left:				260px;
+	margin-right:				180px;
 }
 
 aside {
 	float:					right;
-	background-color:		white;
+	background-color:			white;
 	border:					thin solid #999;
 	padding:				20px;
 	width:					120px;
 }
-
-/*aside p {
-	padding:				20px;
-}*/
 
 #only {
 	clear:					right;
