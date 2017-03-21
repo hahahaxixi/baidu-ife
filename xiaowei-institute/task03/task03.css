@@ -1,0 +1,65 @@
+body {
+	background-color:		white;
+	padding:				20px;
+}
+
+.all {
+	background-color:		#eee;
+	padding:				20px;
+	border:					thin solid #999;
+	clear:					right;
+}
+
+#logo {
+	float:					left;
+	background-color:		white;
+	width:					200px;
+	border:					thin solid #999;
+	padding:				20px;
+}
+
+img {
+	width:					80px;
+	height:					80px;
+	padding:				20px;
+	border:					thin solid #999;
+}
+
+#logo span {
+	/*display:				inline;*/
+	/*vertical-align:			top;*/
+	/*text-align:				right;*/
+	/*width:					10px;*/
+/*	
+	border:					thin solid white;
+	margin-left:			140px;*/
+	/*position:				absolute;*/
+
+	/*margin-bottom:			100px;
+*/
+margin-left:			140px;
+}
+
+#content {
+	background-color:		white;
+	border:					thin solid #999;
+	padding:				20px;
+	margin-left:			260px;
+	margin-right:			180px;
+}
+
+aside {
+	float:					right;
+	background-color:		white;
+	border:					thin solid #999;
+	padding:				20px;
+	width:					120px;
+}
+
+/*aside p {
+	padding:				20px;
+}*/
+
+#only {
+	clear:					right;
+}
